@@ -1,6 +1,3 @@
-// var username   = prompt("Tell us your name");
-// alert("This script works");
-// console.log("Hello, script is working");
 var btnTranslate = document.querySelector("#btn-translate");
 var txtInput = document.querySelector("#txt-input");
 var output = document.querySelector("#txt-output");
